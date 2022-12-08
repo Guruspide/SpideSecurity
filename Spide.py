@@ -138,7 +138,8 @@ def usage():
 
 	print 'Welcom To Spide Security DDoS Attack Software by Guru-------------!'
 	print ' 01010011 01110000 01101001 01100100 01100101 00100000 01010011 01100101 01100011 01110101 01110010 01101001 01110100 01111001 '
-	print 'https://www.facebook.com/profile.php?id=100088380676014&mibextid=ZbWKwL '
+	print '---------------------------------------------------'
+        print 'https://www.facebook.com/profile.php?id=100088380676014&mibextid=ZbWKwL '
 
 	print '---------------------------------------------------'
 
@@ -188,7 +189,7 @@ def httpcall(url):
 
 			set_flag(1)
 
-			print 'DDoS 1010100000111 Runing Trafic Web code 500'
+			print 'DDoS 1010100000111 Runing Trafic Web code 1000 HTTP HITTING....'
 
 			code=500
 
